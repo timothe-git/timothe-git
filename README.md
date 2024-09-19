@@ -1,6 +1,15 @@
 ## Hi there 👋
 
+### Software
+
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/640px-Visual_Studio_Code_1.35_icon.svg.png' alt='vscode' height='40'>](#)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png' alt='html' height='40'>](#)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png' alt='css' height='40'>](#)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png' alt='js' height='40'>](#)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/640px-Git-logo.svg.png' alt='git' height='40'>](#) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/640px-GitHub_Invertocat_Logo.svg.png' alt='github' height='40'>](#) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png' alt='python' height='40'>](#) [<img src='' alt='' height='40'>](#) [<img src='' alt='' height='40'>](#) [<img src='' alt='' height='40'>](#) [<img src='' alt='' height='40'>](#)
+
+
 <!--
+
+[<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png' alt='mysql' height='40'>](#)
+[<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' alt='reactjs' height='40'>](#)
+
 **timothe-git/timothe-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
